@@ -1,0 +1,1158 @@
+2019-12-15 18:11:57,109 ERROR 81125 [-/127.0.0.1/-/11ms GET /english-practice/api/user-info/?uid=567876767] nodejs.TypeError: queryString is not a function
+    at UserController.index (/Users/wanjianxin/my-project/egg-example-simple/app/controller/user_info.js:11:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:45:18)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:36:12
+
+pid: 81125
+hostname: localhost
+
+2019-12-15 18:12:22,265 ERROR 81210 [-/127.0.0.1/-/7ms GET /english-practice/api/user-info/?uid=567876767] nodejs.TypeError: queryString is not a function
+    at UserController.index (/Users/wanjianxin/my-project/egg-example-simple/app/controller/user_info.js:11:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:45:18)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:36:12
+
+pid: 81210
+hostname: localhost
+
+2019-12-15 18:12:23,191 ERROR 81210 [-/127.0.0.1/-/1ms GET /english-practice/api/user-info/?uid=567876767] nodejs.TypeError: queryString is not a function
+    at UserController.index (/Users/wanjianxin/my-project/egg-example-simple/app/controller/user_info.js:11:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:45:18)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:36:12
+
+pid: 81210
+hostname: localhost
+
+2019-12-15 18:12:23,494 ERROR 81210 [-/127.0.0.1/-/1ms GET /english-practice/api/user-info/?uid=567876767] nodejs.TypeError: queryString is not a function
+    at UserController.index (/Users/wanjianxin/my-project/egg-example-simple/app/controller/user_info.js:11:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:45:18)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:36:12
+
+pid: 81210
+hostname: localhost
+
+2019-12-15 18:12:23,761 ERROR 81210 [-/127.0.0.1/-/0ms GET /english-practice/api/user-info/?uid=567876767] nodejs.TypeError: queryString is not a function
+    at UserController.index (/Users/wanjianxin/my-project/egg-example-simple/app/controller/user_info.js:11:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:45:18)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:36:12
+
+pid: 81210
+hostname: localhost
+
+2019-12-15 18:12:24,272 ERROR 81210 [-/127.0.0.1/-/0ms GET /english-practice/api/user-info/?uid=567876767] nodejs.TypeError: queryString is not a function
+    at UserController.index (/Users/wanjianxin/my-project/egg-example-simple/app/controller/user_info.js:11:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:45:18)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:36:12
+
+pid: 81210
+hostname: localhost
+
+2019-12-15 18:12:24,572 ERROR 81210 [-/127.0.0.1/-/0ms GET /english-practice/api/user-info/?uid=567876767] nodejs.TypeError: queryString is not a function
+    at UserController.index (/Users/wanjianxin/my-project/egg-example-simple/app/controller/user_info.js:11:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:45:18)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:36:12
+
+pid: 81210
+hostname: localhost
+
+2019-12-15 18:12:24,844 ERROR 81210 [-/127.0.0.1/-/1ms GET /english-practice/api/user-info/?uid=567876767] nodejs.TypeError: queryString is not a function
+    at UserController.index (/Users/wanjianxin/my-project/egg-example-simple/app/controller/user_info.js:11:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:45:18)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:44:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-compose/index.js:36:12
+
+pid: 81210
+hostname: localhost
+
+2019-12-16 15:19:27,052 ERROR 11574 [-/127.0.0.1/-/0ms GET /] nodejs.ETIMEDOUTError: connect ETIMEDOUT
+    at PoolConnection.Connection._handleConnectTimeout (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:412:13)
+    at Object.onceWrapper (events.js:273:13)
+    at Socket.emit (events.js:182:13)
+    at Socket._onTimeout (net.js:453:8)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+    --------------------
+    at Protocol._enqueue (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:119:18)
+    at Pool.getConnection (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+errorno: "ETIMEDOUT"
+code: "ETIMEDOUT"
+syscall: "connect"
+fatal: true
+name: "ETIMEDOUTError"
+pid: 11574
+hostname: localhost
+
+2019-12-16 15:20:18,744 ERROR 11742 [-/127.0.0.1/-/0ms GET /] nodejs.ETIMEDOUTError: connect ETIMEDOUT
+    at PoolConnection.Connection._handleConnectTimeout (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:412:13)
+    at Object.onceWrapper (events.js:273:13)
+    at Socket.emit (events.js:182:13)
+    at Socket._onTimeout (net.js:453:8)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+    --------------------
+    at Protocol._enqueue (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:119:18)
+    at Pool.getConnection (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+errorno: "ETIMEDOUT"
+code: "ETIMEDOUT"
+syscall: "connect"
+fatal: true
+name: "ETIMEDOUTError"
+pid: 11742
+hostname: localhost
+
+2019-12-16 19:56:13,925 ERROR 23626 [-/127.0.0.1/-/59ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem WHERE priority = 1 RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem WHERE priority = 1 RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id"
+name: "ER_PARSE_ERRORError"
+pid: 23626
+hostname: localhost
+
+2019-12-16 19:59:42,661 ERROR 23825 [-/127.0.0.1/-/66ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1"
+name: "ER_PARSE_ERRORError"
+pid: 23825
+hostname: localhost
+
+2019-12-16 19:59:59,523 ERROR 23855 [-/127.0.0.1/-/43ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1"
+name: "ER_PARSE_ERRORError"
+pid: 23855
+hostname: localhost
+
+2019-12-16 20:00:00,522 ERROR 23855 [-/127.0.0.1/-/33ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1"
+name: "ER_PARSE_ERRORError"
+pid: 23855
+hostname: localhost
+
+2019-12-16 20:00:00,834 ERROR 23855 [-/127.0.0.1/-/32ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1"
+name: "ER_PARSE_ERRORError"
+pid: 23855
+hostname: localhost
+
+2019-12-16 20:00:01,117 ERROR 23855 [-/127.0.0.1/-/29ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1"
+name: "ER_PARSE_ERRORError"
+pid: 23855
+hostname: localhost
+
+2019-12-16 20:00:01,419 ERROR 23855 [-/127.0.0.1/-/33ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1"
+name: "ER_PARSE_ERRORError"
+pid: 23855
+hostname: localhost
+
+2019-12-16 20:00:01,721 ERROR 23855 [-/127.0.0.1/-/28ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE priority = 1' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id and WHERE priority = 1"
+name: "ER_PARSE_ERRORError"
+pid: 23855
+hostname: localhost
+
+2019-12-16 20:26:28,078 ERROR 25902 [-/127.0.0.1/-/38ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_NON_UNIQ_ERRORError: ER_NON_UNIQ_ERROR: Column 'chapter_id' in field list is ambiguous
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT stem_id,stem_name,stem_desc,priority,chapter_id,stem_list_id FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id WHERE priority=1
+code: "ER_NON_UNIQ_ERROR"
+errno: 1052
+sqlMessage: "Column 'chapter_id' in field list is ambiguous"
+sqlState: "23000"
+index: 0
+sql: "SELECT stem_id,stem_name,stem_desc,priority,chapter_id,stem_list_id FROM stem RIGHT JOIN chapters ON stem.chapter_id = chapters.chapter_id WHERE priority=1"
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+name: "ER_NON_UNIQ_ERRORError"
+pid: 25902
+hostname: localhost
+
+2019-12-17 15:59:32,502 ERROR 7910 [-/127.0.0.1/-/28ms GET /english-practice/api/get-stem/detail/?stem_id=4725] nodejs.TypeError: Cannot read property '0' of null
+    at StemController.detail (/Users/wanjianxin/my-project/egg-example-simple/app/controller/stem.js:75:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 7910
+hostname: localhost
+
+2019-12-17 16:11:06,886 ERROR 8343 [-/127.0.0.1/-/41ms GET /english-practice/api/get-stem/detail/?stem_id=4725] nodejs.TypeError: Cannot read property '0' of null
+    at StemController.detail (/Users/wanjianxin/my-project/egg-example-simple/app/controller/stem.js:75:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 8343
+hostname: localhost
+
+2019-12-17 16:28:41,196 ERROR 8745 [-/127.0.0.1/-/29ms GET /english-practice/api/get-stem/detail/?stem_id=4725] nodejs.TypeError: Cannot read property '0' of null
+    at StemController.detail (/Users/wanjianxin/my-project/egg-example-simple/app/controller/stem.js:75:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 8745
+hostname: localhost
+
+2019-12-17 16:29:56,515 ERROR 8796 [-/127.0.0.1/-/42ms GET /english-practice/api/get-stem/detail/?stem_id=4725] nodejs.TypeError: Cannot read property '0' of null
+    at StemController.detail (/Users/wanjianxin/my-project/egg-example-simple/app/controller/stem.js:75:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 8796
+hostname: localhost
+
+2019-12-17 16:49:47,104 ERROR 9035 [-/127.0.0.1/-/33ms GET /english-practice/api/get-stem/?type=1] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN stem_parent_questions
+      ON stem.chapter_id = stem_parent_questions' at line 4
+      ON stem.chapter_id = stem_parent_questions' at line 4
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: 
+      SELECT 
+      *
+      FROM stem LEFT JOIN chapters 
+      ON stem.chapter_id = chapters.chapter_id 
+      WHERE priority=1
+      LEFT JOIN stem_parent_questions
+      ON stem.chapter_id = stem_parent_questions.chapter_id
+    
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LEFT JOIN stem_parent_questions\n      ON stem.chapter_id = stem_parent_questions' at line 4"
+sqlState: "42000"
+index: 0
+sql: "\n      SELECT \n      *\n      FROM stem LEFT JOIN chapters \n      ON stem.chapter_id = chapters.chapter_id \n      WHERE priority=1\n      LEFT JOIN stem_parent_questions\n      ON stem.chapter_id = stem_parent_questions.chapter_id\n    "
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 9035
+hostname: localhost
+
+2019-12-17 17:01:47,912 ERROR 9427 [-/127.0.0.1/-/58ms GET /english-practice/api/get-stem/detail/?stem_id=4719] nodejs.ER_NO_SUCH_TABLEError: ER_NO_SUCH_TABLE: Table 'english-practice.SELECT * FROM stem_child_questions WHERE stem_id=4719' doesn't exist
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM `SELECT * FROM stem_child_questions WHERE stem_id=4719`
+code: "ER_NO_SUCH_TABLE"
+errno: 1146
+sqlMessage: "Table 'english-practice.SELECT * FROM stem_child_questions WHERE stem_id=4719' doesn't exist"
+sqlState: "42S02"
+index: 0
+sql: "SELECT * FROM `SELECT * FROM stem_child_questions WHERE stem_id=4719`"
+name: "ER_NO_SUCH_TABLEError"
+pid: 9427
+hostname: localhost
+
+2019-12-18 14:59:02,693 WARN 4828 [-/127.0.0.1/-/1ms POST /english-practice/api/answer/submit/] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 14:59:02,698 WARN 4828 [-/127.0.0.1/-/6ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:153:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 4828
+hostname: localhost
+
+2019-12-18 15:01:20,540 WARN 4828 [-/127.0.0.1/-/1ms POST /english-practice/api/answer/submit/] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:01:20,541 WARN 4828 [-/127.0.0.1/-/2ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:153:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 4828
+hostname: localhost
+
+2019-12-18 15:05:24,203 WARN 4828 [-/127.0.0.1/-/1ms POST /english-practice/api/answer/submit/] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:05:24,204 WARN 4828 [-/127.0.0.1/-/2ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:162:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 4828
+hostname: localhost
+
+2019-12-18 15:15:08,754 WARN 5344 [-/127.0.0.1/-/31ms POST /english-practice/api/answer/submit/] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:15:08,756 WARN 5344 [-/127.0.0.1/-/33ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:153:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 5344
+hostname: localhost
+
+2019-12-18 15:17:05,160 WARN 5451 [-/127.0.0.1/-/33ms POST /english-practice/api/answer/submit/] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:17:05,162 WARN 5451 [-/127.0.0.1/-/34ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:153:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":["*"],"vary":"Origin"}
+pid: 5451
+hostname: localhost
+
+2019-12-18 15:21:59,348 WARN 7296 [-/127.0.0.1/-/24ms POST /english-practice/api/answer/submit/] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:21:59,351 WARN 7296 [-/127.0.0.1/-/26ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:153:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+pid: 7296
+hostname: localhost
+
+2019-12-18 15:29:19,633 WARN 7520 [-/127.0.0.1/-/8ms POST /english-practice/api/answer/submit/] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:29:19,635 WARN 7520 [-/127.0.0.1/-/11ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:162:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+pid: 7520
+hostname: localhost
+
+2019-12-18 15:29:46,384 WARN 7520 [-/127.0.0.1/-/1ms POST /english-practice/api/answer/submit/] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:29:46,385 WARN 7520 [-/127.0.0.1/-/1ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:162:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+pid: 7520
+hostname: localhost
+
+2019-12-18 15:30:42,755 WARN 7679 [-/127.0.0.1/-/6ms POST /english-practice/api/answer/submit/] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:30:42,758 WARN 7679 [-/127.0.0.1/-/9ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:162:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+pid: 7679
+hostname: localhost
+
+2019-12-18 15:35:45,262 WARN 8033 [-/127.0.0.1/-/6ms POST /english-practice/api/answer/submit/] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:35:45,264 WARN 8033 [-/127.0.0.1/-/8ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:162:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+pid: 8033
+hostname: localhost
+
+2019-12-18 15:40:30,451 WARN 8142 [-/127.0.0.1/-/4ms POST /english-practice/api/answer/submit/] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:40:30,454 WARN 8142 [-/127.0.0.1/-/6ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:162:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+pid: 8142
+hostname: localhost
+
+2019-12-18 15:41:33,799 WARN 8142 [-/127.0.0.1/-/29ms POST /english-practice/api/answer/submit/] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-12-18 15:41:33,799 WARN 8142 [-/127.0.0.1/-/30ms POST /english-practice/api/answer/submit/] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/app/extend/context.js:153:19)
+    at csrf (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/wanjianxin/my-project/egg-example-simple/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+pid: 8142
+hostname: localhost
+
+2019-12-18 16:57:12,872 ERROR 11417 [-/127.0.0.1/-/57ms POST /english-practice/api/answer/submit/] nodejs.ER_OPERAND_COLUMNSError: ER_OPERAND_COLUMNS: Operand should contain 1 column(s)
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: INSERT INTO `user_answer_record`(`uid`, `answer_array`, `stem_id`, `chapter_id`, `question_id`) VALUES('567876767', ('[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]'), 4719, 1410, '153737')
+code: "ER_OPERAND_COLUMNS"
+errno: 1241
+sqlMessage: "Operand should contain 1 column(s)"
+sqlState: "21000"
+index: 0
+sql: "INSERT INTO `user_answer_record`(`uid`, `answer_array`, `stem_id`, `chapter_id`, `question_id`) VALUES('567876767', ('[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]'), 4719, 1410, '153737')"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_OPERAND_COLUMNSError"
+pid: 11417
+hostname: localhost
+
+2019-12-18 16:59:11,455 ERROR 11482 [-/127.0.0.1/-/46ms POST /english-practice/api/answer/submit/] nodejs.ER_OPERAND_COLUMNSError: ER_OPERAND_COLUMNS: Operand should contain 1 column(s)
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: INSERT INTO `user_answer_record`(`uid`, `answer_array`, `stem_id`, `chapter_id`, `question_id`) VALUES('567876767', ('[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]'), 4719, 1410, '153737')
+code: "ER_OPERAND_COLUMNS"
+errno: 1241
+sqlMessage: "Operand should contain 1 column(s)"
+sqlState: "21000"
+index: 0
+sql: "INSERT INTO `user_answer_record`(`uid`, `answer_array`, `stem_id`, `chapter_id`, `question_id`) VALUES('567876767', ('[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]', '[object Object]'), 4719, 1410, '153737')"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_OPERAND_COLUMNSError"
+pid: 11482
+hostname: localhost
+
+2019-12-18 17:04:55,338 ERROR 11730 [-/127.0.0.1/-/74ms POST /english-practice/api/answer/submit/] nodejs.ER_TRUNCATED_WRONG_VALUEError: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '1576659895294' for column 'answer_time' at row 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: INSERT INTO `user_answer_record`(`uid`, `answer_array`, `stem_id`, `chapter_id`, `question_id`, `answer_time`) VALUES('567876767', '[{\"priority\":1,\"value\":\"\"},{\"priority\":2,\"value\":\"\"},{\"priority\":3,\"value\":\"\"},{\"priority\":4,\"value\":\"\"},{\"priority\":5,\"value\":\"\"},{\"priority\":6,\"value\":\"\"},{\"priority\":7,\"value\":\"\"},{\"priority\":8,\"value\":\"\"},{\"priority\":9,\"value\":\"\"},{\"priority\":10,\"value\":\"\"},{\"priority\":11,\"value\":\"\"},{\"priority\":12,\"value\":\"\"},{\"priority\":13,\"value\":\"\"},{\"priority\":14,\"value\":\"\"},{\"priority\":15,\"value\":\"\"},{\"priority\":16,\"value\":\"\"},{\"priority\":17,\"value\":\"\"},{\"priority\":17,\"value\":\" Sense\"},{\"priority\":18,\"value\":\" Stick\"},{\"priority\":19,\"value\":\" in head\"}]', 4719, 1410, 153737, 1576659895294)
+code: "ER_TRUNCATED_WRONG_VALUE"
+errno: 1292
+sqlMessage: "Incorrect datetime value: '1576659895294' for column 'answer_time' at row 1"
+sqlState: "22007"
+index: 0
+sql: "INSERT INTO `user_answer_record`(`uid`, `answer_array`, `stem_id`, `chapter_id`, `question_id`, `answer_time`) VALUES('567876767', '[{\\\"priority\\\":1,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":2,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":3,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":4,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":5,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":6,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":7,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":8,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":9,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":10,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":11,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":12,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":13,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":14,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":15,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":16,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":17,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":17,\\\"value\\\":\\\" Sense\\\"},{\\\"priority\\\":18,\\\"value\\\":\\\" Stick\\\"},{\\\"priority\\\":19,\\\"value\\\":\\\" in head\\\"}]', 4719, 1410, 153737, 1576659895294)"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUEError"
+pid: 11730
+hostname: localhost
+
+2019-12-18 17:05:34,468 ERROR 11779 [-/127.0.0.1/-/48ms POST /english-practice/api/answer/submit/] nodejs.ER_WARN_DATA_OUT_OF_RANGEError: ER_WARN_DATA_OUT_OF_RANGE: Out of range value for column 'answer_time' at row 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: INSERT INTO `user_answer_record`(`uid`, `answer_array`, `stem_id`, `chapter_id`, `question_id`, `answer_time`) VALUES('567876767', '[{\"priority\":1,\"value\":\"\"},{\"priority\":2,\"value\":\"\"},{\"priority\":3,\"value\":\"\"},{\"priority\":4,\"value\":\"\"},{\"priority\":5,\"value\":\"\"},{\"priority\":6,\"value\":\"\"},{\"priority\":7,\"value\":\"\"},{\"priority\":8,\"value\":\"\"},{\"priority\":9,\"value\":\"\"},{\"priority\":10,\"value\":\"\"},{\"priority\":11,\"value\":\"\"},{\"priority\":12,\"value\":\"\"},{\"priority\":13,\"value\":\"\"},{\"priority\":14,\"value\":\"\"},{\"priority\":15,\"value\":\"\"},{\"priority\":16,\"value\":\"\"},{\"priority\":16,\"value\":\" Nevertheless\"},{\"priority\":17,\"value\":\" Sense\"},{\"priority\":18,\"value\":\" Stick\"},{\"priority\":19,\"value\":\" in head\"}]', 4719, 1410, 153737, 1576659934434)
+code: "ER_WARN_DATA_OUT_OF_RANGE"
+errno: 1264
+sqlMessage: "Out of range value for column 'answer_time' at row 1"
+sqlState: "22003"
+index: 0
+sql: "INSERT INTO `user_answer_record`(`uid`, `answer_array`, `stem_id`, `chapter_id`, `question_id`, `answer_time`) VALUES('567876767', '[{\\\"priority\\\":1,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":2,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":3,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":4,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":5,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":6,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":7,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":8,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":9,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":10,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":11,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":12,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":13,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":14,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":15,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":16,\\\"value\\\":\\\"\\\"},{\\\"priority\\\":16,\\\"value\\\":\\\" Nevertheless\\\"},{\\\"priority\\\":17,\\\"value\\\":\\\" Sense\\\"},{\\\"priority\\\":18,\\\"value\\\":\\\" Stick\\\"},{\\\"priority\\\":19,\\\"value\\\":\\\" in head\\\"}]', 4719, 1410, 153737, 1576659934434)"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_WARN_DATA_OUT_OF_RANGEError"
+pid: 11779
+hostname: localhost
+
+2019-12-18 17:09:50,960 ERROR 11907 [-/127.0.0.1/-/26ms GET /english-practice/api/get-stem/detail/?stem_id=4719?uid=567876767] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?uid=567876767' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem_parent_questions WHERE stem_id=4719?uid=567876767
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?uid=567876767' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem_parent_questions WHERE stem_id=4719?uid=567876767"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 11907
+hostname: localhost
+
+2019-12-18 17:13:43,240 ERROR 12112 [-/127.0.0.1/-/35ms GET /english-practice/api/get-stem/detail/?stem_id=4719?uid=567876767] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem_parent_questions WHERE stem_id=undefined
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM stem_parent_questions WHERE stem_id=undefined"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 12112
+hostname: localhost
+
+2019-12-18 17:14:00,407 ERROR 12112 [-/127.0.0.1/-/31ms GET /english-practice/api/get-stem/detail/?stem_id=4719&uid=567876767] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem_parent_questions WHERE stem_id=undefined
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM stem_parent_questions WHERE stem_id=undefined"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 12112
+hostname: localhost
+
+2019-12-18 17:14:55,859 ERROR 12312 [-/127.0.0.1/-/96ms GET /english-practice/api/get-stem/detail/?stem_id=4719&uid=567876767] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem_parent_questions WHERE stem_id=undefined
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM stem_parent_questions WHERE stem_id=undefined"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 12312
+hostname: localhost
+
+2019-12-18 17:54:36,881 ERROR 13311 [-/127.0.0.1/-/1496ms GET /english-practice/api/spider/] nodejs.ER_DATA_TOO_LONGError: ER_DATA_TOO_LONG: Data too long for column 'answer_time' at row 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: INSERT INTO `chapters`(`chapter_id`, `chapter_name`, `add_time_str`, `question_count`, `type`, `type_str`, `answer_time`, `exam_year`, `pass_score`, `stem_list_id`) VALUES(1410, '2018年考研英语二考前押题（五）', '2018-03-10 09:34:16', 0, 1, '预测题', 180, '2018', 60, 5177)
+code: "ER_DATA_TOO_LONG"
+errno: 1406
+sqlMessage: "Data too long for column 'answer_time' at row 1"
+sqlState: "22001"
+index: 0
+sql: "INSERT INTO `chapters`(`chapter_id`, `chapter_name`, `add_time_str`, `question_count`, `type`, `type_str`, `answer_time`, `exam_year`, `pass_score`, `stem_list_id`) VALUES(1410, '2018年考研英语二考前押题（五）', '2018-03-10 09:34:16', 0, 1, '预测题', 180, '2018', 60, 5177)"
+name: "ER_DATA_TOO_LONGError"
+pid: 13311
+hostname: localhost
+
+2019-12-18 18:21:37,762 ERROR 15292 [-/127.0.0.1/-/50ms GET /english-practice/api/get-stem/detail/?stem_id=4719&uid=567876767] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem_child_questions WHERE stem_id=4719 GROUP BY order
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem_child_questions WHERE stem_id=4719 GROUP BY order"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 15292
+hostname: localhost
+
+2019-12-18 18:23:30,051 ERROR 15292 [-/127.0.0.1/-/53ms GET /english-practice/api/get-stem/detail/?stem_id=4719&uid=567876767] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/egg-example-simple/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/egg-example-simple/node_modules/co/index.js:54:5
+    sql: SELECT * FROM stem_child_questions WHERE stem_id=4719 GROUP BY order
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM stem_child_questions WHERE stem_id=4719 GROUP BY order"
+headers: {"Access-Control-Allow-Origin":["http://0.0.0.0:10086"],"vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 15292
+hostname: localhost
+

@@ -1,0 +1,32 @@
+'use strict';
+
+const USER_PARAMS_ERROR_MSG = 'params error,lack uid';
+const USER_SEARCH_SUCCESS_MSG = 'success';
+const USER_SEARCH_ERROR_MSG = 'error,uid not exits';
+
+const USER_PARAMS_ERROR_PROMPT = '参数错误,缺少uid！';
+const USER_SEARCH_SUCCESS_PROMPT = '查询成功！';
+const USER_SEARCH_ERROR_PROMPT = '查询失败，用户不存在！';
+
+const STEM_PARAMS_ERROR_MSG = 'params error,lack type';
+const STEM_SEARCH_SUCCESS_MSG = 'success';
+const STEM_SEARCH_ERROR_MSG = 'error,stem not exits';
+
+const STEM_PARAMS_ERROR_PROMPT = '参数错误,缺少type！';
+const STEM_SEARCH_SUCCESS_PROMPT = '查询成功！';
+const STEM_SEARCH_ERROR_PROMPT = '查询失败，类型错误！';
+
+module.exports = {
+  USER_PARAMS_ERROR_MSG,
+  USER_SEARCH_SUCCESS_MSG,
+  USER_SEARCH_ERROR_MSG,
+  USER_PARAMS_ERROR_PROMPT,
+  USER_SEARCH_SUCCESS_PROMPT,
+  USER_SEARCH_ERROR_PROMPT,
+  STEM_PARAMS_ERROR_MSG,
+  STEM_SEARCH_SUCCESS_MSG,
+  STEM_SEARCH_ERROR_MSG,
+  STEM_PARAMS_ERROR_PROMPT,
+  STEM_SEARCH_SUCCESS_PROMPT,
+  STEM_SEARCH_ERROR_PROMPT,
+};
