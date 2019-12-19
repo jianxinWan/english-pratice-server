@@ -1156,3 +1156,69 @@ name: "ER_PARSE_ERRORError"
 pid: 15292
 hostname: localhost
 
+2019-12-19 16:20:23,779 ERROR 15801 [-/127.0.0.1/-/726ms GET /english-practice/api/spider/] nodejs.ER_BAD_NULL_ERRORError: ER_BAD_NULL_ERROR: Column 'chapter_id' cannot be null
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: INSERT INTO `chapters`(`chapter_id`, `chapter_name`, `add_time_str`, `question_count`, `type`, `type_str`, `answer_time`, `exam_year`, `pass_score`, `stem_list_id`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 2802)
+code: "ER_BAD_NULL_ERROR"
+errno: 1048
+sqlMessage: "Column 'chapter_id' cannot be null"
+sqlState: "23000"
+index: 0
+sql: "INSERT INTO `chapters`(`chapter_id`, `chapter_name`, `add_time_str`, `question_count`, `type`, `type_str`, `answer_time`, `exam_year`, `pass_score`, `stem_list_id`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 2802)"
+name: "ER_BAD_NULL_ERRORError"
+pid: 15801
+hostname: localhost
+
+2019-12-19 16:21:02,184 ERROR 15833 [-/127.0.0.1/-/641ms GET /english-practice/api/spider/] nodejs.ER_BAD_NULL_ERRORError: ER_BAD_NULL_ERROR: Column 'chapter_id' cannot be null
+    at Query.Sequence._packetToError (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/my-project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/my-project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/my-project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/my-project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: INSERT INTO `chapters`(`chapter_id`, `chapter_name`, `add_time_str`, `question_count`, `type`, `type_str`, `answer_time`, `exam_year`, `pass_score`, `stem_list_id`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 5322)
+code: "ER_BAD_NULL_ERROR"
+errno: 1048
+sqlMessage: "Column 'chapter_id' cannot be null"
+sqlState: "23000"
+index: 0
+sql: "INSERT INTO `chapters`(`chapter_id`, `chapter_name`, `add_time_str`, `question_count`, `type`, `type_str`, `answer_time`, `exam_year`, `pass_score`, `stem_list_id`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 5322)"
+name: "ER_BAD_NULL_ERRORError"
+pid: 15833
+hostname: localhost
+

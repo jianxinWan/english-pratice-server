@@ -7,6 +7,20 @@
 /**
  * @param {Egg.EggAppInfo} appInfo app info
  */
+
+function getIPAdress() {
+  const interfaces = require('os').networkInterfaces();
+  for (const devName in interfaces) {
+    const iface = interfaces[devName];
+    for (let i = 0; i < iface.length; i++) {
+      const alias = iface[i];
+      if (alias.family === 'IPv4' && alias.address !== '127.0.0.1' && !alias.internal) {
+        return alias.address;
+      }
+    }
+  }
+}
+
 module.exports = appInfo => {
   /**
    * built-in config
@@ -33,8 +47,10 @@ module.exports = appInfo => {
     // 是否加载到 agent 上，默认关闭
     agent: false,
   };
+
+
   config.cors = {
-    origin: ['http://0.0.0.0:10086'],
+    origin: [`http://${getIPAdress()}:10086`],
   };
 
   config.security = {

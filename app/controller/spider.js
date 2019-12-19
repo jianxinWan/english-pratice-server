@@ -1,3 +1,4 @@
+/* eslint-disable eol-last */
 'use strict';
 
 const Controller = require('egg').Controller;
@@ -11,8 +12,12 @@ class SpiderController extends Controller {
     const params = {
       // key: 'GetShowTypeName',
       // CID: 83656,
+      // key: 'GetPaper',
+      // PID: 1410,
+      // key: 'GetShowTypeName',
+      // CID: 83656,
       key: 'GetPaper',
-      PID: 1410,
+      PID: 1405,
     };
     const requestObj = {
       method: 'POST',
@@ -23,6 +28,37 @@ class SpiderController extends Controller {
     const result = await ctx.curl(url, requestObj);
     const ServiceInfo = await ctx.service.spider.getChapters(url, requestObj);
     console.log(ServiceInfo);
+    ctx.body = result.data;
+  }
+
+  async getAnswer() {
+    const {
+      ctx,
+    } = this;
+    const url = 'http://m.k51.com.cn/Exam/Service/Exam_AnswerSheetHandler.ashx';
+    const params = {
+      // key: 'GetShowTypeName',
+      // CID: 83656,
+      // key: 'GetPaper',
+      // PID: 1410,
+      // key: 'GetShowTypeName',
+      // CID: 83656,
+      // key: 'GetPaper',
+      // PID: 1405,
+      key: 'selectallAnswerSheet',
+      CID: 83644,
+      UID: 190190,
+      RID: 19862,
+      PARENTID: 19861,
+    };
+    const requestObj = {
+      method: 'POST',
+      contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+      dataType: 'json',
+      data: params,
+    };
+    const result = await ctx.curl(url, requestObj);
+    console.log(result);
     ctx.body = result.data;
   }
 }

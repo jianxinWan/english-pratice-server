@@ -1,315 +1,316 @@
 {
   "mysql": {
     "client": {
-      "host": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js",
-      "port": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js",
-      "user": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js",
-      "password": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js",
-      "database": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js"
+      "host": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+      "port": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+      "user": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+      "password": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+      "database": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js"
     },
-    "app": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js",
-    "agent": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js",
+    "app": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+    "agent": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
     "default": {
-      "database": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-mysql/config/config.default.js",
-      "connectionLimit": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-mysql/config/config.default.js"
+      "database": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-mysql/config/config.default.js"
     }
   },
   "cors": {
-    "origin": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js"
-  },
-  "keys": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js",
-  "middleware": "/Users/wanjianxin/my-project/egg-example-simple/config/config.default.js",
-  "session": {
-    "maxAge": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-session/config/config.default.js"
+    "origin": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "type": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "useSession": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "headerName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "queryName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "refererWhiteList": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+      "type": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
+    "domainWhiteList": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
     "xframe": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "policy": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     }
   },
+  "keys": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+  "middleware": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+  "confusedConfigurations": {
+    "bodyparser": "/Users/wanjianxin/my-project/english-pratice-server/config/config.default.js",
+    "notFound": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-session/config/config.default.js"
+  },
   "helper": {
-    "shtml": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-security/config/config.default.js"
+    "shtml": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-i18n/config/config.default.js",
-    "cookieDomain": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-watcher/config/config.local.js",
+    "type": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-watcher/config/config.default.js",
-      "development": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-watcher/config/config.default.js"
+      "default": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-schedule/config/config.default.js",
-      "file": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-schedule/config/config.default.js"
+    "directory": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-schedule/config/config.default.js"
   },
   "multipart": {
-    "mode": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "autoFields": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "files": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
-    "tmpdir": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js",
+    "mode": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-multipart/config/config.default.js"
+      "cron": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/config/config.default.js"
     }
   },
   "development": {
-    "watchDirs": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-development/config/config.default.js"
+    "watchDirs": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-static/config/config.default.js"
+    "prefix": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-view/config/config.default.js",
-    "mapping": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg-view/config/config.default.js"
+    "root": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-view/config/config.default.js"
   },
-  "env": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "name": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "cookies": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "proxy": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "maxIpsCount": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "maxProxyCount": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
+  "env": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "name": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "version": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "description": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "private": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
+    "name": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "version": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "description": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "private": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
     "egg": {
-      "declarations": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "declarations": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "dependencies": {
-      "egg": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "egg-cors": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "egg-mysql": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "query-string": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "url-parse": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "egg": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "moment": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "query-string": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "url-parse": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "autod": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "autod-egg": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "egg-bin": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "egg-ci": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "egg-mock": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "eslint": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "eslint-config-egg": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "autod": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "engines": {
-      "node": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "node": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "start": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "stop": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "dev": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "debug": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "test": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "test-local": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "cov": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "lint": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "ci": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "autod": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "start": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "stop": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "dev": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "debug": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "test": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "cov": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "lint": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "ci": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "autod": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "ci": {
-      "version": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "version": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "url": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "type": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "url": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
-    "author": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "license": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+    "author": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "license": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
-  "baseDir": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "HOME": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "rundir": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
+  "baseDir": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
-  },
-  "confusedConfigurations": {
-    "bodyparser": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "notFound": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "sitefile": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "middlewares": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "httpClient": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+    "ignore": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+    "pageUrl": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "formLimit": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "textLimit": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "strict": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
+    "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "strict": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "depth": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "arrayLimit": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "depth": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
-    "onerror": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+    "onerror": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "env": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "level": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "outputJSON": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "buffer": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "appLogName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "coreLogName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "agentLogName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "errorLogName": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
+    "dir": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "env": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "level": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.local.js"
+      "consoleLevel": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+    "allowDebugAtProd": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "timeout": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "logging": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+    "enable": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "logging": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-  "serverTimeout": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "port": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-      "hostname": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "port": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "/Users/wanjianxin/my-project/egg-example-simple/node_modules/egg/config/config.default.js"
+  "onClientError": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/config.default.js"
 }
