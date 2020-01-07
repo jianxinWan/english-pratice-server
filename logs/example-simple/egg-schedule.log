@@ -2737,3 +2737,9 @@
 2019-12-19 16:50:27,500 INFO 16500 [egg-schedule]: register schedule /Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2019-12-19 16:50:27,500 INFO 16500 [egg-schedule]: register schedule /Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
 2019-12-19 16:50:27,500 INFO 16500 [egg-schedule]: register schedule /Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-01-07 17:40:46,651 INFO 8476 [egg-schedule]: register schedule C:\Users\25821\Desktop\毕业设计\english-pratice-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-01-07 17:40:46,652 INFO 8476 [egg-schedule]: register schedule C:\Users\25821\Desktop\毕业设计\english-pratice-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-01-07 17:40:46,652 INFO 8476 [egg-schedule]: register schedule C:\Users\25821\Desktop\毕业设计\english-pratice-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-01-07 17:40:52,595 INFO 11552 [Timer] C:\Users\25821\Desktop\毕业设计\english-pratice-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38947595ms at 2020-01-08 04:30:00.190
+2020-01-07 17:40:52,597 INFO 11552 [Timer] C:\Users\25821\Desktop\毕业设计\english-pratice-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22747404ms at 2020-01-08 00:00:00.001
+2020-01-07 17:40:52,598 INFO 11552 [Timer] C:\Users\25821\Desktop\毕业设计\english-pratice-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22748403ms at 2020-01-08 00:00:01.001

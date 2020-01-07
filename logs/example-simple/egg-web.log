@@ -14493,3 +14493,19 @@ hostname: localhost
 2019-12-19 19:20:19,023 WARN 16500 [ClusterClient:Watcher] follower closed, and try to init it again
 2019-12-19 19:27:03,041 WARN 16500 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
 2019-12-19 19:27:03,042 WARN 16500 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-01-07 17:40:46,511 INFO 8476 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\logs\\example-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-01-07 17:40:46,692 INFO 8476 [egg-multipart] stream mode enable
+2020-01-07 17:40:46,694 INFO 8476 [egg-mysql] connecting root@139.199.104.60:3306/english-practice
+2020-01-07 17:40:51,293 INFO 8476 [egg-static] starting static serve /public/ -> C:\Users\25821\Desktop\毕业设计\english-pratice-server\app\public
+2020-01-07 17:40:51,307 INFO 8476 [egg-security] use methodnoallow middleware
+2020-01-07 17:40:51,311 INFO 8476 [egg-security] use noopen middleware
+2020-01-07 17:40:51,315 INFO 8476 [egg-security] use nosniff middleware
+2020-01-07 17:40:51,318 INFO 8476 [egg-security] use xssProtection middleware
+2020-01-07 17:40:51,322 INFO 8476 [egg-security] use xframe middleware
+2020-01-07 17:40:51,345 INFO 8476 [egg-security] use dta middleware
+2020-01-07 17:40:51,345 INFO 8476 [egg-security] compose 6 middlewares into one security middleware
+2020-01-07 17:40:51,630 INFO 8476 [egg:core] dump config after load, 88ms
+2020-01-07 17:40:51,771 INFO 8476 [egg-watcher:application] watcher start success
+2020-01-07 17:40:52,191 INFO 8476 [egg-mysql] instance[0] status OK, rds currentTime: Tue Jan 07 2020 17:40:47 GMT+0800 (GMT+08:00)
+2020-01-07 17:40:52,388 INFO 8476 [egg:core] dump config after ready, 96ms
+2020-01-07 18:57:05,466 WARN 8476 [ClusterClient:Watcher] follower closed, and try to init it again
