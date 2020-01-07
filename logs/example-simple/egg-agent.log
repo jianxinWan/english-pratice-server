@@ -3014,3 +3014,22 @@ name: "ClusterClientNoResponseError"
 pid: 12971
 hostname: localhost
 
+2020-01-07 17:40:28,652 INFO 11552 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\logs\\example-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-01-07 17:40:28,723 INFO 11552 [egg:core] dump config after load, 55ms
+2020-01-07 17:40:29,236 INFO 11552 [egg-watcher] Start watching: ["C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\app","C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config","C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\mocks","C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\mocks_proxy","C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\app.js"]
+2020-01-07 17:40:29,236 INFO 11552 [egg-watcher] Start watching: "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\app"
+2020-01-07 17:40:29,237 INFO 11552 [egg-watcher] Start watching: "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config"
+2020-01-07 17:40:29,237 INFO 11552 [egg-watcher] Start watching: "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\mocks"
+2020-01-07 17:40:29,238 INFO 11552 [egg-watcher] Start watching: "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\mocks_proxy"
+2020-01-07 17:40:29,238 INFO 11552 [egg-watcher] Start watching: "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\app.js"
+2020-01-07 17:40:29,239 INFO 11552 [egg-watcher:agent] watcher start success
+2020-01-07 17:40:29,365 INFO 11552 [egg:core] dump config after ready, 93ms
+2020-01-07 17:40:51,307 INFO 11552 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\app\\public","stat":{"dev":2354241344,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":2533274790561135,"size":0,"blocks":0,"atimeMs":1578390051291.1038,"mtimeMs":1578390051291.1038,"ctimeMs":1578390051291.1038,"birthtimeMs":1578390051291.1038,"atime":"2020-01-07T09:40:51.291Z","mtime":"2020-01-07T09:40:51.291Z","ctime":"2020-01-07T09:40:51.291Z","birthtime":"2020-01-07T09:40:51.291Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-01-07 18:57:15,889 ERROR 11552 nodejs.ClusterClientNoResponseError: client no response in 2725714ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\25821\Desktop\毕业设计\english-pratice-server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 11552
+hostname: DESKTOP-S7C8RDA
+

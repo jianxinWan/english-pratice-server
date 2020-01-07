@@ -1784,3 +1784,11 @@ name: "ClusterClientNoResponseError"
 pid: 12971
 hostname: localhost
 
+2020-01-07 18:57:14,513 ERROR 11552 nodejs.ClusterClientNoResponseError: client no response in 2725714ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\25821\Desktop\毕业设计\english-pratice-server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 11552
+hostname: DESKTOP-S7C8RDA
+

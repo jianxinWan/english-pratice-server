@@ -75,7 +75,7 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-onerror/lib/onerror_page.mustache"
+      "templatePath": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-onerror\\lib\\onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
@@ -88,8 +88,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-watcher\\lib\\event-sources\\default",
+        "development": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-watcher\\lib\\event-sources\\development"
       }
     },
     "customLogger": {
@@ -112,7 +112,7 @@
       "files": 10,
       "fileExtensions": [],
       "whitelist": null,
-      "tmpdir": "/var/folders/bn/3jpywknx4s57lc8kl1fjtn1c0000gn/T/egg-multipart-tmp/example-simple",
+      "tmpdir": "C:\\Users\\25821\\AppData\\Local\\Temp\\egg-multipart-tmp\\example-simple",
       "cleanSchedule": {
         "cron": "0 30 4 * * *"
       }
@@ -135,14 +135,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/wanjianxin/my-project/english-pratice-server/app/public",
+      "dir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\app\\public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "/Users/wanjianxin/my-project/english-pratice-server/app/view",
+      "root": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -165,7 +165,7 @@
     },
     "cors": {
       "origin": [
-        "http://0.0.0.0:10086"
+        "http://192.168.43.91:10086"
       ]
     },
     "env": "local",
@@ -229,9 +229,9 @@
       "author": "",
       "license": "MIT"
     },
-    "baseDir": "/Users/wanjianxin/my-project/english-pratice-server",
-    "HOME": "/Users/wanjianxin",
-    "rundir": "/Users/wanjianxin/my-project/english-pratice-server/run",
+    "baseDir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server",
+    "HOME": "C:\\Users\\25821",
+    "rundir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -263,7 +263,7 @@
       "onerror": "<Function onerror>"
     },
     "logger": {
-      "dir": "/Users/wanjianxin/my-project/english-pratice-server/logs/example-simple",
+      "dir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\logs\\example-simple",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -339,8 +339,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-session",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -352,8 +352,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-security",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security",
       "version": "2.7.1"
     },
     "jsonp": {
@@ -365,8 +365,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-jsonp",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -378,8 +378,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-onerror",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -389,8 +389,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-i18n",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -400,8 +400,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-watcher",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-watcher",
       "version": "3.1.0"
     },
     "schedule": {
@@ -411,8 +411,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-schedule",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-schedule",
       "version": "3.6.4"
     },
     "multipart": {
@@ -424,8 +424,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-multipart",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart",
       "version": "2.10.0"
     },
     "development": {
@@ -439,8 +439,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-development",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-development",
       "version": "2.4.3"
     },
     "logrotator": {
@@ -452,8 +452,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-logrotator",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-logrotator",
       "version": "3.1.0"
     },
     "static": {
@@ -463,8 +463,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-static",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-static",
       "version": "2.2.0"
     },
     "view": {
@@ -474,8 +474,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-view",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-view",
       "version": "2.1.2"
     },
     "mysql": {
@@ -485,8 +485,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-mysql",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-mysql",
       "version": "3.0.0"
     },
     "cors": {
@@ -496,8 +496,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/wanjianxin/my-project/english-pratice-server/config/plugin.js",
-      "path": "/Users/wanjianxin/my-project/english-pratice-server/node_modules/egg-cors",
+      "from": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\plugin.js",
+      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-cors",
       "version": "2.2.3"
     }
   }
