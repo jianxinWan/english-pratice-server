@@ -11,6 +11,7 @@ module.exports = app => {
     router,
     controller,
   } = app;
+  //测试
   router.get('/', controller.home.index);
   router.get(`${baseUrl}/user-info/`, controller.userInfo.index);
   router.get(`${baseUrl}/spider/`, controller.spider.index);
