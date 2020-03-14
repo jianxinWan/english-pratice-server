@@ -1,316 +1,316 @@
 {
   "mysql": {
     "client": {
-      "host": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
-      "port": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
-      "user": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
-      "password": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
-      "database": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js"
+      "host": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
+      "port": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
+      "user": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
+      "password": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
+      "database": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js"
     },
-    "app": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
-    "agent": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
+    "app": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
+    "agent": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
     "default": {
-      "database": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-mysql\\config\\config.default.js",
-      "connectionLimit": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-mysql\\config\\config.default.js"
+      "database": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-mysql/config/config.default.js"
     }
   },
   "cors": {
-    "origin": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js"
+    "origin": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js"
   },
   "security": {
     "csrf": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
-      "type": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "ignoreJSON": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "useSession": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "cookieName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "sessionName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "headerName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "bodyName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "queryName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "refererWhiteList": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
+      "type": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
-    "domainWhiteList": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
+    "domainWhiteList": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
     "xframe": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.local.js",
-      "maxAge": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "includeSubdomains": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "policy": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js",
-      "checkAddress": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+      "ipBlackList": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
     }
   },
-  "keys": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
-  "middleware": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
+  "keys": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
+  "middleware": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
   "confusedConfigurations": {
-    "bodyparser": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\config\\config.default.js",
-    "notFound": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "sitefile": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "middlewares": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "httpClient": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "bodyparser": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config/config.default.js",
+    "notFound": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "session": {
-    "maxAge": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-session\\config\\config.default.js"
+    "maxAge": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-session/config/config.default.js"
   },
   "helper": {
-    "shtml": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-security\\config\\config.default.js"
+    "shtml": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "callback": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "csrf": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-jsonp\\config\\config.default.js"
+    "limit": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-onerror\\config\\config.default.js",
-    "templatePath": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "dirs": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "queryField": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieField": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieDomain": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-i18n\\config\\config.default.js"
+    "defaultLocale": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-watcher\\config\\config.local.js",
+    "type": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-watcher\\config\\config.default.js",
-      "development": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-watcher\\config\\config.default.js"
+      "default": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-schedule\\config\\config.default.js",
-      "file": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-schedule\\config\\config.default.js"
+      "consoleLevel": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-schedule\\config\\config.default.js"
+    "directory": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-schedule/config/config.default.js"
   },
   "multipart": {
-    "mode": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "autoFields": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileSize": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "whitelist": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
-    "tmpdir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js",
+    "mode": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-multipart\\config\\config.default.js"
+      "cron": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/config/config.default.js"
     }
   },
   "development": {
-    "watchDirs": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-development\\config\\config.default.js",
-    "ignoreDirs": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-development\\config\\config.default.js",
-    "fastReady": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-development\\config\\config.default.js",
-    "reloadOnDebug": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideDefault": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-development\\config\\config.default.js"
+    "watchDirs": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFiles": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxDays": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-static\\config\\config.default.js",
-    "dir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-static\\config\\config.default.js",
-    "dynamic": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-static\\config\\config.default.js"
+    "prefix": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-view\\config\\config.default.js",
-    "defaultViewEngine": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-view\\config\\config.default.js",
-    "mapping": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg-view\\config\\config.default.js"
+    "root": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-view/config/config.default.js"
   },
-  "env": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "name": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "cookies": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "proxy": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "maxIpsCount": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "maxProxyCount": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "protocolHeaders": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "ipHeaders": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "hostHeaders": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
+  "env": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "name": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "version": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "description": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "private": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
+    "name": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "version": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "description": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "private": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
     "egg": {
-      "declarations": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "declarations": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "dependencies": {
-      "egg": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "egg-cors": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "egg-mysql": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "egg-scripts": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "moment": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "query-string": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "url-parse": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "egg": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "moment": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "query-string": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "url-parse": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "autod": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "autod-egg": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "egg-bin": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "egg-ci": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "egg-mock": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "eslint": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "eslint-config-egg": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "autod": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "engines": {
-      "node": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "node": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "start": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "stop": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "dev": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "debug": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "test": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "test-local": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "cov": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "lint": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "ci": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "autod": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "start": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "stop": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "dev": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "debug": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "test": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "cov": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "lint": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "ci": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "autod": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "ci": {
-      "version": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "version": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "url": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "type": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "url": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
-    "author": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "license": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "author": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "license": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
-  "baseDir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "HOME": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "rundir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
+  "baseDir": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "ignore": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "pageUrl": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "/favicon.ico": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "formLimit": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "jsonLimit": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "textLimit": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "strict": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
+    "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "strict": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "depth": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "parameterLimit": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "arrayLimit": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "depth": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
-    "onerror": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "onerror": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "env": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "level": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "outputJSON": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "appLogName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "coreLogName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "agentLogName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "errorLogName": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
+    "dir": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "env": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "level": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.local.js"
+      "consoleLevel": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "allowDebugAtProd": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "timeout": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "logging": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "enable": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "logging": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "workerStartTimeout": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-  "serverTimeout": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
+  "coreMiddleware": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "port": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+      "path": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "port": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js",
-    "responseTimeout": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+    "maxWaitTime": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "C:\\Users\\25821\\Desktop\\毕业设计\\english-pratice-server\\node_modules\\egg\\config\\config.default.js"
+  "onClientError": "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg/config/config.default.js"
 }

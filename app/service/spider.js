@@ -28,7 +28,9 @@ class SpiderService extends Service {
       sID,
       pID,
       question,
+      qCID
     } = stemParentQuesList[0];
+    console.log(qCID);
     const {
       searchContent,
       thinking,
@@ -37,9 +39,11 @@ class SpiderService extends Service {
       stem_id: sID,
       chapter_id: pID,
       question_id: iD,
+      id: qCID,
       title_html: searchContent,
       thinking,
     };
+    console.log(parentQuesInfo)
     await this.app.mysql.insert('stem_parent_questions', parentQuesInfo);
   }
 
@@ -58,12 +62,16 @@ class SpiderService extends Service {
       } = item;
       const {
         jsonStr,
+        titleHTML,
+        parentID
       } = question;
       const sonQuesInfo = {
         stem_id: sID,
         chapter_id: pID,
         question_id: iD,
         priority,
+        title_html: titleHTML,
+        parent_id: parentID,
         option_str: jsonStr,
         order_num: index,
       };
