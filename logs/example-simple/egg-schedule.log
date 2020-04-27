@@ -1,0 +1,45 @@
+2020-04-21 12:26:03,789 INFO 13037 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:26:03,789 INFO 13037 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:26:03,789 INFO 13037 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:26:04,130 INFO 13036 [Timer] /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 57835873ms at 2020-04-22 04:30:00.003
+2020-04-21 12:26:04,130 INFO 13036 [Timer] /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 41635870ms at 2020-04-22 00:00:00.000
+2020-04-21 12:26:04,130 INFO 13036 [Timer] /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 41636870ms at 2020-04-22 00:00:01.000
+2020-04-21 12:29:34,532 INFO 13322 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:29:34,532 INFO 13322 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:29:34,532 INFO 13322 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:29:36,787 INFO 13331 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:29:36,787 INFO 13331 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:29:36,787 INFO 13331 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:29:37,920 INFO 13332 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:29:37,920 INFO 13332 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:29:37,920 INFO 13332 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:29:38,592 INFO 13334 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:29:38,592 INFO 13334 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:29:38,592 INFO 13334 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:29:39,025 INFO 13335 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:29:39,025 INFO 13335 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:29:39,025 INFO 13335 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:30:11,367 INFO 13371 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:30:11,367 INFO 13371 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:30:11,367 INFO 13371 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:31:43,095 INFO 13502 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:31:43,095 INFO 13502 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:31:43,095 INFO 13502 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:31:48,381 INFO 13513 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:31:48,381 INFO 13513 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:31:48,381 INFO 13513 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:32:16,147 INFO 13551 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:32:16,147 INFO 13551 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:32:16,147 INFO 13551 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:32:33,083 INFO 13594 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:32:33,083 INFO 13594 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:32:33,083 INFO 13594 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:32:35,568 INFO 13604 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:32:35,568 INFO 13604 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:32:35,568 INFO 13604 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:32:36,595 INFO 13608 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:32:36,595 INFO 13608 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:32:36,595 INFO 13608 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-21 12:32:43,021 INFO 13623 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-21 12:32:43,021 INFO 13623 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-21 12:32:43,021 INFO 13623 [egg-schedule]: register schedule /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

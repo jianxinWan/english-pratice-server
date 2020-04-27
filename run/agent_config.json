@@ -165,7 +165,7 @@
     },
     "cors": {
       "origin": [
-        "http://192.168.3.3:10086"
+        "http://localhost:10086"
       ]
     },
     "env": "local",

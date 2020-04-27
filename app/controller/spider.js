@@ -10,14 +10,9 @@ class SpiderController extends Controller {
     } = this;
     const url = 'http://www.k51.com.cn/Service/ExamRoom/ExamHandler.ashx';
     const params = {
-      // key: 'GetShowTypeName',
-      // CID: 83656,
-      // key: 'GetPaper',
-      // PID: 1410,
-      // key: 'GetShowTypeName',
-      // CID: 83656,
       key: 'GetPaper',
       PID: 1405,
+      UID: 190190
     };
     const requestObj = {
       method: 'POST',
@@ -37,14 +32,6 @@ class SpiderController extends Controller {
     } = this;
     const url = 'http://m.k51.com.cn/Exam/Service/Exam_AnswerSheetHandler.ashx';
     const params = {
-      // key: 'GetShowTypeName',
-      // CID: 83656,
-      // key: 'GetPaper',
-      // PID: 1410,
-      // key: 'GetShowTypeName',
-      // CID: 83656,
-      // key: 'GetPaper',
-      // PID: 1405,
       key: 'selectallAnswerSheet',
       CID: 83644,
       UID: 190190,

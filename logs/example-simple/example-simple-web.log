@@ -1,0 +1,33 @@
+2020-04-21 12:31:50,961 ERROR 13513 [-/127.0.0.1/-/154ms GET /english-practice/api/exercise/list/?type=1] nodejs.ER_EMPTY_QUERYError: ER_EMPTY_QUERY: Query was empty
+    at Query.Sequence._packetToError (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: [object Object],[object Object],[object Object]
+code: "ER_EMPTY_QUERY"
+errno: 1065
+sqlMessage: "Query was empty"
+sqlState: "42000"
+index: 0
+sql: undefined
+name: "ER_EMPTY_QUERYError"
+pid: 13513
+hostname: mojianxindeMacBook-Pro.local
+

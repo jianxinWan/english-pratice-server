@@ -2,6 +2,7 @@
 // Do not modify this file!!!!!!!!!
 
 import 'egg';
+import ExportExercise = require('../../../app/service/exercise');
 import ExportHome = require('../../../app/service/home');
 import ExportSpider = require('../../../app/service/spider');
 import ExportStem = require('../../../app/service/stem');
@@ -10,6 +11,7 @@ import ExportUserInfo = require('../../../app/service/user_info');
 
 declare module 'egg' {
   interface IService {
+    exercise: ExportExercise;
     home: ExportHome;
     spider: ExportSpider;
     stem: ExportStem;

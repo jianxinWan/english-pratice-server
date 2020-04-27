@@ -4,9 +4,6 @@
 
 'use strict';
 
-/**
- * @param {Egg.EggAppInfo} appInfo app info
- */
 
 function getIPAdress() {
   const interfaces = require('os').networkInterfaces();
@@ -20,6 +17,10 @@ function getIPAdress() {
     }
   }
 }
+
+/**
+ * @param {Egg.EggAppInfo} appInfo app info
+ */
 
 module.exports = appInfo => {
   /**
@@ -50,7 +51,7 @@ module.exports = appInfo => {
 
 
   config.cors = {
-    origin: [`http://${getIPAdress()}:10086`],
+    origin: [`http://localhost:10086`],
   };
 
   config.security = {

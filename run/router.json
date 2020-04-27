@@ -45,6 +45,32 @@
       "GET"
     ],
     "paramNames": [],
+    "path": "/english-practice/api/spider/translation/",
+    "regexp": "/^\\/english-practice\\/api\\/spider\\/translation(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/english-practice/api/spider/translation/detail/",
+    "regexp": "/^\\/english-practice\\/api\\/spider\\/translation\\/detail(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
     "path": "/english-practice/api/spider/answer/",
     "regexp": "/^\\/english-practice\\/api\\/spider\\/answer(?:\\/(?=$))?$/",
     "stack": [
@@ -85,6 +111,45 @@
     "paramNames": [],
     "path": "/english-practice/api/answer/submit/",
     "regexp": "/^\\/english-practice\\/api\\/answer\\/submit(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/english-practice/api/exercise/list/",
+    "regexp": "/^\\/english-practice\\/api\\/exercise\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/english-practice/api/exercise/detail/",
+    "regexp": "/^\\/english-practice\\/api\\/exercise\\/detail(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/english-practice/api/exercise/submit/",
+    "regexp": "/^\\/english-practice\\/api\\/exercise\\/submit(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

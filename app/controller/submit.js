@@ -18,6 +18,7 @@ class SubmitController extends Controller {
       answer_array,
       uid,
     } = params;
+    console.log(params)
     if (!stem_id || !chapter_id || !question_id || !uid || !answer_array) {
       ctx.body = {
         status: 200,
