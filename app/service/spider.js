@@ -9,7 +9,9 @@ function getRandom(n, m) {
 }
 
 class SpiderService extends Service {
-
+  /**
+   * 生成stem_id  stem_id 题目唯一id
+   */
   async generateStemId() {
     const stemListId = getRandom(1000, 10000);
     const hasStemListId = await this.app.mysql.get('stem_list', {
@@ -21,6 +23,11 @@ class SpiderService extends Service {
       return stemListId;
     }
   }
+
+  /**
+   *   添加题目文章
+   * @param {*} stemParentQuesList   
+   */
 
   async insertParentQuestion(stemParentQuesList) {
     const {
@@ -51,6 +58,10 @@ class SpiderService extends Service {
     return await this.app.mysql.insert('stem_child_questions', sonQuesInfo);
   }
 
+  /**
+   * 添加选项
+   * @param {*} stemSonQuesList 
+   */
   async insertChildQuestion(stemSonQuesList) {
     const promiseArray = stemSonQuesList.map((item, index) => {
       const {
@@ -84,6 +95,12 @@ class SpiderService extends Service {
     });
   }
 
+  /**
+   * 添加题目
+   * @param {*} chapterId 
+   * @param {*} stemListId 
+   * @param {*} stemItem 
+   */
   async insertStemItem(chapterId, stemListId, stemItem) {
     const {
       sID,
@@ -115,6 +132,12 @@ class SpiderService extends Service {
     return;
   }
 
+  /**
+   * 题目列表
+   * @param {} chapterId 
+   * @param {*} stemListId 
+   * @param {*} stemList 
+   */
   async insertStemList(chapterId, stemListId, stemList) {
     const stemListInfo = {
       stem_list_id: stemListId,
@@ -139,6 +162,10 @@ class SpiderService extends Service {
     });
   }
 
+  /**
+   * 添加套题
+   * @param {*} data 
+   */
   async insertChapters(data) {
     const {
       onlineName,
