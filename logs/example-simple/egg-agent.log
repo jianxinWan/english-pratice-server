@@ -61,3 +61,281 @@
 2020-04-21 12:32:41,989 INFO 13036 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app/service/exercise.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":15120534,"size":2133,"blocks":8,"atimeMs":1587443561987.5469,"mtimeMs":1587443561987.4902,"ctimeMs":1587443561987.4902,"birthtimeMs":1585577542162.5615,"atime":"2020-04-21T04:32:41.988Z","mtime":"2020-04-21T04:32:41.987Z","ctime":"2020-04-21T04:32:41.987Z","birthtime":"2020-03-30T14:12:22.163Z"},"remove":false,"isDirectory":false,"isFile":true}
 2020-04-21 12:32:42,040 INFO 13036 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app/service/exercise.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":502,"gid":20,"rdev":0,"blksize":4096,"ino":15120534,"size":2133,"blocks":8,"atimeMs":1587443561987.5469,"mtimeMs":1587443561987.4902,"ctimeMs":1587443561987.4902,"birthtimeMs":1585577542162.5615,"atime":"2020-04-21T04:32:41.988Z","mtime":"2020-04-21T04:32:41.987Z","ctime":"2020-04-21T04:32:41.987Z","birthtime":"2020-03-30T14:12:22.163Z"},"remove":false,"isDirectory":false,"isFile":true}
 2020-04-21 12:32:42,244 WARN 13036 [agent:development] reload worker because /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app/service/exercise.js change
+2020-04-27 10:51:59,592 INFO 5526 [egg:logger] init all loggers with options: {"dir":"/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/logs/example-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-27 10:51:59,601 INFO 5526 [egg:core] dump config after load, 5ms
+2020-04-27 10:51:59,647 INFO 5526 [egg-watcher] Start watching: ["/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks_proxy","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app.js"]
+2020-04-27 10:51:59,647 INFO 5526 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app"
+2020-04-27 10:51:59,648 INFO 5526 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config"
+2020-04-27 10:51:59,648 INFO 5526 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks"
+2020-04-27 10:51:59,648 INFO 5526 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks_proxy"
+2020-04-27 10:51:59,648 INFO 5526 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app.js"
+2020-04-27 10:51:59,648 INFO 5526 [egg-watcher:agent] watcher start success
+2020-04-27 10:51:59,668 INFO 5526 [egg:core] dump config after ready, 7ms
+2020-04-27 12:25:28,715 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 707280ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 13:00:27,578 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 2058823ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 15:01:06,003 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7218416ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 15:09:31,869 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 466206ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 16:17:59,686 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 1827403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 16:20:06,934 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 87238ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 18:21:08,385 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 1880511ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 18:23:11,784 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 84006ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 22:04:23,947 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 2149297ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 00:05:02,673 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7218717ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 02:05:57,935 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7215796ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 04:06:37,003 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7219061ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 08:08:34,102 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7219124ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 09:45:02,267 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 5768161ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 11:19:28,420 INFO 27859 [egg:logger] init all loggers with options: {"dir":"/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/logs/example-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-28 11:19:28,427 INFO 27859 [egg:core] dump config after load, 4ms
+2020-04-28 11:19:28,468 INFO 27859 [egg-watcher] Start watching: ["/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks_proxy","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app.js"]
+2020-04-28 11:19:28,468 INFO 27859 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app"
+2020-04-28 11:19:28,468 INFO 27859 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config"
+2020-04-28 11:19:28,468 INFO 27859 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks"
+2020-04-28 11:19:28,468 INFO 27859 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks_proxy"
+2020-04-28 11:19:28,468 INFO 27859 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app.js"
+2020-04-28 11:19:28,469 INFO 27859 [egg-watcher:agent] watcher start success
+2020-04-28 11:19:28,480 INFO 27859 [egg:core] dump config after ready, 5ms
+2020-04-28 13:41:00,983 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 2290506ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 15:03:00,410 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 4839388ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 20:34:04,832 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 2361882ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 21:07:42,950 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 1958088ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 22:01:07,064 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 583847ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 10:05:40,479 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 43453402ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 10:57:10,759 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 1869979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 11:30:00,249 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 1949463ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 12:59:41,613 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 5341805ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 15:00:40,360 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 7218729ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 15:24:49,988 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 1429622ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-05-06 20:16:30,837 INFO 2346 [egg:logger] init all loggers with options: {"dir":"/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/logs/example-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-05-06 20:16:30,845 INFO 2346 [egg:core] dump config after load, 4ms
+2020-05-06 20:16:30,884 INFO 2346 [egg-watcher] Start watching: ["/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks_proxy","/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app.js"]
+2020-05-06 20:16:30,884 INFO 2346 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app"
+2020-05-06 20:16:30,884 INFO 2346 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/config"
+2020-05-06 20:16:30,884 INFO 2346 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks"
+2020-05-06 20:16:30,884 INFO 2346 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/mocks_proxy"
+2020-05-06 20:16:30,884 INFO 2346 [egg-watcher] Start watching: "/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app.js"
+2020-05-06 20:16:30,885 INFO 2346 [egg-watcher:agent] watcher start success
+2020-05-06 20:16:30,895 INFO 2346 [egg:core] dump config after ready, 5ms
+2020-05-06 20:22:59,222 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 227300ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 20:30:08,428 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 287717ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 20:48:39,269 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 969579ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 20:57:41,890 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 380985ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 21:13:26,002 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 843067ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 21:27:44,544 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 298486ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+

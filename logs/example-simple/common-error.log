@@ -31,3 +31,449 @@ name: "ER_EMPTY_QUERYError"
 pid: 13513
 hostname: mojianxindeMacBook-Pro.local
 
+2020-04-27 12:25:28,714 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 707280ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 13:00:27,578 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 2058823ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 15:01:06,002 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7218416ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 15:09:31,869 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 466206ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 16:17:59,686 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 1827403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 16:20:06,934 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 87238ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 18:21:08,385 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 1880511ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 18:23:11,784 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 84006ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-27 22:04:23,947 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 2149297ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 00:05:02,672 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7218717ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 02:05:57,935 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7215796ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 04:06:37,002 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7219061ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 08:08:34,102 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 7219124ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 09:45:02,267 ERROR 5526 nodejs.ClusterClientNoResponseError: client no response in 5768161ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 5526
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 13:41:00,982 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 2290506ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 15:03:00,410 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 4839388ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 15:29:10,574 ERROR 27862 [-/127.0.0.1/-/263ms GET /english-practice/api/get-stem/detail/?stem_id=4725&uid=undefined] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=undefined
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=undefined"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 27862
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 15:30:05,154 ERROR 27862 [-/127.0.0.1/-/223ms GET /english-practice/api/get-stem/detail/?stem_id=4737&uid=undefined] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: SELECT * FROM user_answer_record WHERE stem_id=4737 AND uid=undefined
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM user_answer_record WHERE stem_id=4737 AND uid=undefined"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 27862
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 15:49:29,455 ERROR 27862 [-/127.0.0.1/-/212ms GET /english-practice/api/get-stem/detail/?stem_id=4725&uid=undefined] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=undefined
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=undefined"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 27862
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 15:52:16,690 ERROR 27862 [-/127.0.0.1/-/219ms GET /english-practice/api/get-stem/detail/?stem_id=4725&uid=function%20(resolve,%20reject)%20{%20%20%20%20_taroWeapp2.default.getStorage({%20%20%20%20%20%20key:%20key,%20%20%20%20%20%20success:%20function%20success(res)%20{%20%20%20%20%20%20%20%20resolve(res);%20%20%20%20%20%20},%20%20%20%20%20%20fail:%20function%20fail(e)%20{%20%20%20%20%20%20%20%20reject(e);%20%20%20%20%20%20}%20%20%20%20});%20%20}] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(resolve, reject) {    _taroWeapp2.default.getStorage({      key: key,      succ' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=function (resolve, reject) {    _taroWeapp2.default.getStorage({      key: key,      success: function success(res) {        resolve(res);      },      fail: function fail(e) {        reject(e);      }    });  }
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(resolve, reject) {    _taroWeapp2.default.getStorage({      key: key,      succ' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=function (resolve, reject) {    _taroWeapp2.default.getStorage({      key: key,      success: function success(res) {        resolve(res);      },      fail: function fail(e) {        reject(e);      }    });  }"
+name: "ER_PARSE_ERRORError"
+pid: 27862
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 15:53:03,194 ERROR 27862 [-/127.0.0.1/-/208ms GET /english-practice/api/get-stem/detail/?stem_id=4725&uid=function%20(resolve,%20reject)%20{%20%20%20%20_taroWeapp2.default.getStorage({%20%20%20%20%20%20key:%20key,%20%20%20%20%20%20success:%20function%20success(res)%20{%20%20%20%20%20%20%20%20resolve(res);%20%20%20%20%20%20},%20%20%20%20%20%20fail:%20function%20fail(e)%20{%20%20%20%20%20%20%20%20reject(e);%20%20%20%20%20%20}%20%20%20%20});%20%20}] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(resolve, reject) {    _taroWeapp2.default.getStorage({      key: key,      succ' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=function (resolve, reject) {    _taroWeapp2.default.getStorage({      key: key,      success: function success(res) {        resolve(res);      },      fail: function fail(e) {        reject(e);      }    });  }
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(resolve, reject) {    _taroWeapp2.default.getStorage({      key: key,      succ' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=function (resolve, reject) {    _taroWeapp2.default.getStorage({      key: key,      success: function success(res) {        resolve(res);      },      fail: function fail(e) {        reject(e);      }    });  }"
+name: "ER_PARSE_ERRORError"
+pid: 27862
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 15:54:00,825 ERROR 27862 [-/127.0.0.1/-/216ms GET /english-practice/api/get-stem/detail/?stem_id=4725&uid=function%20()%20{%20%20%20%20_taroWeapp2.default.getStorage({%20%20%20%20%20%20key:%20key,%20%20%20%20%20%20success:%20function%20success(res)%20{%20%20%20%20%20%20%20%20return%20res;%20%20%20%20%20%20},%20%20%20%20%20%20fail:%20function%20fail()%20{%20%20%20%20%20%20%20%20return%20%22%22;%20%20%20%20%20%20}%20%20%20%20});%20%20}] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() {    _taroWeapp2.default.getStorage({      key: key,      success: function s' at line 1
+    at Query.Sequence._packetToError (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:311:20)
+    at addChunk (_stream_readable.js:294:12)
+    --------------------
+    at Pool.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/mysql/lib/Pool.js:199:23)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:65:19)
+    at /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/co/index.js:54:5
+    sql: SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=function () {    _taroWeapp2.default.getStorage({      key: key,      success: function success(res) {        return res;      },      fail: function fail() {        return "";      }    });  }
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() {    _taroWeapp2.default.getStorage({      key: key,      success: function s' at line 1"
+sqlState: "42000"
+index: 0
+sql: "SELECT * FROM user_answer_record WHERE stem_id=4725 AND uid=function () {    _taroWeapp2.default.getStorage({      key: key,      success: function success(res) {        return res;      },      fail: function fail() {        return \"\";      }    });  }"
+name: "ER_PARSE_ERRORError"
+pid: 27862
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 20:34:04,831 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 2361882ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 21:07:42,950 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 1958088ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-28 22:01:07,063 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 583847ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 10:05:40,478 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 43453402ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 10:57:10,759 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 1869979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 11:30:00,248 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 1949463ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 12:59:41,613 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 5341805ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 15:00:40,359 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 7218729ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-04-29 15:24:49,988 ERROR 27859 nodejs.ClusterClientNoResponseError: client no response in 1429622ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 27859
+hostname: mojianxindeMacBook-Pro.local
+
+2020-05-06 20:22:59,222 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 227300ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 20:30:08,428 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 287717ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 20:48:39,269 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 969579ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 20:57:41,890 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 380985ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 21:13:26,002 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 843067ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+
+2020-05-06 21:27:44,544 ERROR 2346 nodejs.ClusterClientNoResponseError: client no response in 298486ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2346
+hostname: mojianxindeMBP.lan
+

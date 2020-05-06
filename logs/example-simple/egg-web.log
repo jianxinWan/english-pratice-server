@@ -207,3 +207,88 @@
 2020-04-21 12:32:43,135 INFO 13623 [egg-watcher:application] watcher start success
 2020-04-21 12:32:43,616 INFO 13623 [egg-mysql] instance[0] status OK, rds currentTime: Tue Apr 21 2020 12:32:43 GMT+0800 (GMT+08:00)
 2020-04-21 12:32:43,623 INFO 13623 [egg:core] dump config after ready, 5ms
+2020-04-27 10:52:00,473 INFO 5527 [egg:logger] init all loggers with options: {"dir":"/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/logs/example-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-27 10:52:00,503 INFO 5527 [egg-multipart] stream mode enable
+2020-04-27 10:52:00,503 INFO 5527 [egg-mysql] connecting root@139.199.104.60:3306/english-practice
+2020-04-27 10:52:00,636 INFO 5527 [egg-static] starting static serve /public/ -> /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app/public
+2020-04-27 10:52:00,638 INFO 5527 [egg-security] use methodnoallow middleware
+2020-04-27 10:52:00,638 INFO 5527 [egg-security] use noopen middleware
+2020-04-27 10:52:00,639 INFO 5527 [egg-security] use nosniff middleware
+2020-04-27 10:52:00,639 INFO 5527 [egg-security] use xssProtection middleware
+2020-04-27 10:52:00,641 INFO 5527 [egg-security] use xframe middleware
+2020-04-27 10:52:00,642 INFO 5527 [egg-security] use dta middleware
+2020-04-27 10:52:00,642 INFO 5527 [egg-security] compose 6 middlewares into one security middleware
+2020-04-27 10:52:00,655 INFO 5527 [egg:core] dump config after load, 6ms
+2020-04-27 10:52:00,668 INFO 5527 [egg-watcher:application] watcher start success
+2020-04-27 10:52:00,834 INFO 5527 [egg-mysql] instance[0] status OK, rds currentTime: Mon Apr 27 2020 10:52:00 GMT+0800 (GMT+08:00)
+2020-04-27 10:52:00,843 INFO 5527 [egg:core] dump config after ready, 5ms
+2020-04-27 12:25:28,713 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-27 13:00:27,578 WARN 5527 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-27 13:00:27,579 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-27 15:01:06,002 WARN 5527 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-27 15:01:06,003 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-27 15:09:31,869 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-27 16:17:59,686 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-27 16:20:06,934 WARN 5527 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-27 16:20:06,934 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-27 18:21:08,385 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-27 18:23:11,784 WARN 5527 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-27 18:23:11,784 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-27 22:04:23,947 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 00:05:02,672 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 02:05:57,935 WARN 5527 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-28 02:05:57,935 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 04:06:37,002 WARN 5527 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-28 04:06:37,002 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 08:08:34,102 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 09:45:02,267 WARN 5527 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 11:19:29,252 INFO 27862 [egg:logger] init all loggers with options: {"dir":"/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/logs/example-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-28 11:19:29,280 INFO 27862 [egg-multipart] stream mode enable
+2020-04-28 11:19:29,280 INFO 27862 [egg-mysql] connecting root@139.199.104.60:3306/english-practice
+2020-04-28 11:19:29,444 INFO 27862 [egg-static] starting static serve /public/ -> /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app/public
+2020-04-28 11:19:29,447 INFO 27862 [egg-security] use methodnoallow middleware
+2020-04-28 11:19:29,448 INFO 27862 [egg-security] use noopen middleware
+2020-04-28 11:19:29,449 INFO 27862 [egg-security] use nosniff middleware
+2020-04-28 11:19:29,449 INFO 27862 [egg-security] use xssProtection middleware
+2020-04-28 11:19:29,454 INFO 27862 [egg-security] use xframe middleware
+2020-04-28 11:19:29,454 INFO 27862 [egg-security] use dta middleware
+2020-04-28 11:19:29,454 INFO 27862 [egg-security] compose 6 middlewares into one security middleware
+2020-04-28 11:19:29,479 INFO 27862 [egg:core] dump config after load, 7ms
+2020-04-28 11:19:29,497 INFO 27862 [egg-watcher:application] watcher start success
+2020-04-28 11:19:29,655 INFO 27862 [egg-mysql] instance[0] status OK, rds currentTime: Tue Apr 28 2020 11:19:29 GMT+0800 (GMT+08:00)
+2020-04-28 11:19:29,663 INFO 27862 [egg:core] dump config after ready, 6ms
+2020-04-28 13:41:00,981 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 15:03:00,410 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 20:34:04,830 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 21:07:42,950 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 22:01:07,063 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-29 10:05:40,478 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-29 10:57:10,759 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-29 11:30:00,248 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-29 12:59:41,613 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-29 15:00:40,359 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-29 15:24:49,987 WARN 27862 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-06 20:16:31,732 INFO 2350 [egg:logger] init all loggers with options: {"dir":"/Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/logs/example-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-06 20:16:31,757 INFO 2350 [egg-multipart] stream mode enable
+2020-05-06 20:16:31,758 INFO 2350 [egg-mysql] connecting root@139.199.104.60:3306/english-practice
+2020-05-06 20:16:31,869 INFO 2350 [egg-static] starting static serve /public/ -> /Users/wanjianxin/xiaowan/graduation_project/english-pratice-server/app/public
+2020-05-06 20:16:31,871 INFO 2350 [egg-security] use methodnoallow middleware
+2020-05-06 20:16:31,871 INFO 2350 [egg-security] use noopen middleware
+2020-05-06 20:16:31,872 INFO 2350 [egg-security] use nosniff middleware
+2020-05-06 20:16:31,873 INFO 2350 [egg-security] use xssProtection middleware
+2020-05-06 20:16:31,873 INFO 2350 [egg-security] use xframe middleware
+2020-05-06 20:16:31,875 INFO 2350 [egg-security] use dta middleware
+2020-05-06 20:16:31,875 INFO 2350 [egg-security] compose 6 middlewares into one security middleware
+2020-05-06 20:16:31,888 INFO 2350 [egg:core] dump config after load, 5ms
+2020-05-06 20:16:31,904 INFO 2350 [egg-watcher:application] watcher start success
+2020-05-06 20:16:32,184 INFO 2350 [egg-mysql] instance[0] status OK, rds currentTime: Wed May 06 2020 20:16:32 GMT+0800 (GMT+08:00)
+2020-05-06 20:16:32,193 INFO 2350 [egg:core] dump config after ready, 6ms
+2020-05-06 20:22:59,222 WARN 2350 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-06 20:30:08,428 WARN 2350 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-06 20:48:39,269 WARN 2350 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-06 20:57:41,890 WARN 2350 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-05-06 20:57:41,891 WARN 2350 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-06 21:13:26,001 WARN 2350 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-05-06 21:13:26,002 WARN 2350 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-06 21:27:44,544 WARN 2350 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-05-06 21:27:44,544 WARN 2350 [ClusterClient:Watcher] follower closed, and try to init it again
